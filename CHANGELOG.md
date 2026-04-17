@@ -2,6 +2,15 @@
 
 All notable changes to `laravel-model-flags` will be documented in this file.
 
+## 1.5.0 - 2026-04-17
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.5.0 to 3.0.0 by @dependabot[bot] in https://github.com/spatie/laravel-model-flags/pull/52
+* Add support for unflagging an array of flags by @grantholle in https://github.com/spatie/laravel-model-flags/pull/53
+
+**Full Changelog**: https://github.com/spatie/laravel-model-flags/compare/1.4.2...1.5.0
+
 ## 1.4.2 - 2026-02-27
 
 Add Laravel 13 support
